@@ -10,9 +10,9 @@ const Index = () => {
         <div className="container mx-auto flex items-center justify-between">
           <div className="flex items-center space-x-2">
             <div className="w-8 h-8 bg-orange-500 rounded flex items-center justify-center">
-              <span className="text-white font-bold text-sm">C</span>
+              <span className="text-white font-bold text-sm">R</span>
             </div>
-            <span className="font-bold text-xl">CRMP</span>
+            <span className="font-bold text-xl">RELAX</span>
             <span className="text-gray-500 text-sm">RP</span>
           </div>
           
@@ -36,7 +36,7 @@ const Index = () => {
           <div className="grid lg:grid-cols-2 gap-12 items-center">
             <div className="space-y-8">
               <h1 className="text-7xl md:text-8xl font-bold text-orange-500 leading-none">
-                CRMP
+                RELAX
               </h1>
               
               <p className="text-xl text-gray-600 max-w-md">
@@ -55,7 +55,7 @@ const Index = () => {
             <div className="relative">
               <img 
                 src="/img/2f38ca14-fa80-45d9-a27e-dc894579bfb3.jpg" 
-                alt="CRMP Character" 
+                alt="RELAX Character" 
                 className="w-full max-w-md ml-auto object-contain"
               />
               
@@ -99,7 +99,7 @@ const Index = () => {
           <div className="text-center mb-16">
             <h2 className="text-5xl font-bold mb-6 text-gray-900">Особенности сервера</h2>
             <p className="text-xl text-gray-600 max-w-3xl mx-auto">
-              CRMP предлагает уникальный игровой опыт с глубокой ролевой системой
+              RELAX предлагает уникальный игровой опыт с глубокой ролевой системой
             </p>
           </div>
           
@@ -150,7 +150,7 @@ const Index = () => {
             <div className="text-center mb-16">
               <h2 className="text-5xl font-bold mb-6 text-gray-900">Как начать играть</h2>
               <p className="text-xl text-gray-600">
-                Простые шаги для входа в мир CRMP
+                Простые шаги для входа в мир RELAX
               </p>
             </div>
             
@@ -260,11 +260,11 @@ const Index = () => {
         <div className="container mx-auto px-8 text-center">
           <div className="flex items-center justify-center space-x-2 mb-4">
             <div className="w-8 h-8 bg-orange-500 rounded flex items-center justify-center">
-              <span className="text-white font-bold text-sm">C</span>
+              <span className="text-white font-bold text-sm">R</span>
             </div>
-            <span className="font-bold text-xl">CRMP</span>
+            <span className="font-bold text-xl">RELAX</span>
           </div>
-          <p className="text-gray-400 mb-4">© 2024 CRMP Project. Все права защищены.</p>
+          <p className="text-gray-400 mb-4">© 2024 RELAX Project. Все права защищены.</p>
           <p className="text-sm text-gray-500">
             Игра предназначена для лиц старше 18 лет. Игра не поощряет насилие в реальной жизни.
           </p>
